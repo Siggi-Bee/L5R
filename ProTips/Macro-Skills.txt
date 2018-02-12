@@ -1,0 +1,9 @@
+Some skills are Macro-Skills. Macro-Skills are used to summarize broad skills and skills that you could potentially make your own skills for, they are usually written like this: Games: Mahjong
+
+Examples of these are: Artisan, Lore, Games, etc.
+
+Macro Skills must be taken seperately. You may have an emphasis for each one  and would be written as such: Lore: Heraldry (Imperial)
+
+Correct your character sheets if necessary
+
+Note: Sometimes Macro Skills are based in a diffrent stat, things like Games includes sports and boardgames.

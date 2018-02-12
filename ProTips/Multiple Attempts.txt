@@ -1,0 +1,1 @@
+Unlike most systems, you can attempts the same action multiple times assuming it is still possible. Things like using Str to move an object or picking a lock. Each succesive attempt gets progressively more difficult though. So, if you are unlucky and roll bad you can try again at a higher difficulty
