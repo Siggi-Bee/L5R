@@ -6,9 +6,16 @@ Everything in this post is subject to change.
 How it's Played
 -----
 
-Every 24 hrs I will make a post with a description of the current situation and players will have until I make the next post to act.
+Every 24-ish hrs I will make a post with a description of the current situation and players will have until I make the next post to act.
 
 If everyone acts and I'm prepared I may make a post sooner.
+
+There are **Down Times** during which I expect players to minimize posts. These are:
+* Hours between 11 PM and 6 AM
+* Days where other TGs are scheduled
+* On player request
+
+These are not strict *no post* times, rather times that posts should be minimzed. This only applies to the public forum, I will not regulate the times that other players may contact each other privately. Players may ask any questions to the DM, make any knowledge checks or any other checks that do not take place in real time at any time. The intention is not to stop the game at these hours, rather to cut down on roleplaying at odd hours when not everyone can be involved.
 
 The players may **PASS** if they do not want to act and want to hurry to the next turn. Conversely players may request a **HOLD** if for some reason they will be prohibited from making a post and need more time. Players may override a **HOLD** by adding a :NoBozo: reaction to the post.
 
