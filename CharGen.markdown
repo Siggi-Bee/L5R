@@ -10,7 +10,7 @@ Every 24 hrs I will make a post with a description of the current situation and 
 
 If everyone acts and I'm prepared I may make a post sooner.
 
-The players may **PASS** if they do not want to act and want to hurry to the next turn. Conversely players may request a HOLD if for some reason they will be prohibited from making a post and need more time. Players may override a HOLD by adding a :NoBozo: reaction to the post.
+The players may **PASS** if they do not want to act and want to hurry to the next turn. Conversely players may request a **HOLD** if for some reason they will be prohibited from making a post and need more time. Players may override a **HOLD** by adding a :NoBozo: ![alt text](https://github.com/TorsvikVonClemson/L5R/blob/master/no-bozo-f.png) reaction to the post.
 
 
 
