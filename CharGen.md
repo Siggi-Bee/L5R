@@ -23,17 +23,17 @@ The players may **PASS** if they do not want to act and want to hurry to the nex
 
 
 
-I'll be trying to stick to a format for each of my posts:
+#### I'll be trying to stick to a format for each of my posts:
 
-DM actions will be in normal print...
+* DM actions will be in normal print...
 
-*Descriptions in italics...*
+* *Descriptions in italics...*
 
-\~Character Name~
+* \~Character Name~
 
-"Dialogue in quotes..."
+* "Dialogue in quotes..."
 
-```and meta, mechanics and foot notes in code blocks.```
+* ```and meta, mechanics and foot notes in code blocks.```
 
 
 
